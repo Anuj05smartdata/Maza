@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\GitHub\Cinematics\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="E:\GitHub\Cinematics\android\app\build\intermediates\pre-dexed\debug\classes_656d39c749532e8939e9488dd3f46fb344cbc487.jar" />
+    </item>
+
+</items>
